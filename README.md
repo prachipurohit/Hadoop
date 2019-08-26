@@ -1,2 +1,0 @@
-# Hadoop
-hadoop with pyspark
